@@ -23,7 +23,7 @@ const enviar = () => {
                     <label htmlFor="assunto">Assunto</label>
                     <textarea value={assunto} onChange={(e) => setAssunto(e.target.value)} className={s.textAreaData} placeholder='Insira o assunto' ></textarea>
                 </div>
-                <button onClick={enviar}>ENVIAR</button>
+                <button className={s.btn} onClick={enviar}>ENVIAR</button>
             </div>
         </div>
     )
