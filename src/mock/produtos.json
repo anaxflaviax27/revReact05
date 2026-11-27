@@ -1,0 +1,32 @@
+[
+{
+        "id": "01",
+        "título": "TITULO 01",
+        "texto": "Texto do card 01",
+        "imagem": "/images.jpg"
+}, 
+{
+        "id": "02",
+        "título": "TITULO 02",
+        "texto": "Texto do card 02",
+        "imagem": "/images.jpg"
+},
+{
+        "id": "03",
+        "título": "TITULO 03",
+        "texto": "Texto do card 03",
+        "imagem": "/images.jpg"
+},
+{
+        "id": "04",
+        "título": "TITULO 04",
+        "texto": "Texto do card 04",
+        "imagem": "/images.jpg"
+},
+{
+        "id": "05",
+        "título": "TITULO 05",
+        "texto": "Texto do card 05",
+        "imagem": "/images.jpg"
+}
+]

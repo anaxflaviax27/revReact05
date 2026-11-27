@@ -5,7 +5,7 @@ import './index.css'
 import App from './App.jsx'
 import Charts from './Charts.jsx';
 import Contact from "./Contact.jsx"
-import products from './products.jsx';
+import Products from './products.jsx';
 
 const router = createBrowserRouter([
   {
