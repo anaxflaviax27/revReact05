@@ -1,5 +1,6 @@
 import { Menu } from './components/menu'
 import s from './products.module.css'
+import florFoto from '/images.jpg'
 
 function products(){
     return(
@@ -10,7 +11,7 @@ function products(){
 
                <div className={s.card}>
                     <div className={s.wrapImg}>
-                        <img className={s.imagem}  src="" alt="" />
+                        <img className={s.imagem}  src={florFoto} alt="Foto exemplo" />
                     </div>
                     <div className={s.wrapCardTexts}>
                         <h2 className={s.cardTitle}>TITULO</h2>
