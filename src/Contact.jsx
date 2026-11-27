@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import s from './Contact.module.css'
+import { Menu } from './components/menu'
 
 function Contact(){
 
